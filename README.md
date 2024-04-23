@@ -1,3 +1,3 @@
-# responsive-resume-cv
+# Responsive-personal-website
 
-DEMO : https://sara-alizadeh-developer.github.io/responsive-resume-cv
+DEMO : https://sara-alizadeh-developer.github.io/Responsive-personal-website
